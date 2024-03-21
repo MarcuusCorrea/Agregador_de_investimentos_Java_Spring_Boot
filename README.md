@@ -4,8 +4,8 @@ Neste projeto, criei uma Api utilizando Java e sua poderosa biblioteca Spring Bo
 
 ferramentas utlizadas no projeto todo:
 
-JDK 17
-Maven
-Postman
-Docker (MySqL)
-IDE (IntelliJ, STS, Eclipse, etc)
+- JDK 17
+- Maven
+- Postman
+- Docker (MySqL)
+- IDE (IntelliJ, STS, Eclipse, etc)
