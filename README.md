@@ -1,8 +1,8 @@
 # Agregador_de_investimentos_Java_Spring_Boot
-Neste projeto, criei uma Api utilizando Java e sua poderosa biblioteca Spring Boot, para criar um agregador de investimentos.
+In this project, I created an API that uses Java and its powerful Spring Boot library to create an investment aggregator..
 
 
-ferramentas utlizadas no projeto todo:
+tools used throughout the project:
 
 - JDK 17
 - Maven
